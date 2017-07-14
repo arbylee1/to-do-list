@@ -2,12 +2,11 @@
 
 
 TODO:
-* Check out mining software on Bri's computer
+* Replace mining software on Bri's computer
 * Check out 5/3/1 workout program
-* Migrate webserver onto personal AWS account
 * Backup Authy/Google Authenticator
-* Make paper wallets for major crypto holdings. HODL.
-* Trade crypto to fit desired profile https://drive.google.com/open?id=1sayqXvqLMKpfLkzsdumsFxYzeRp-Z0Hvk4N8D1wU2tM
+* Migrate webserver onto personal AWS account
+* Figure out how to deploy Play web application to a remote server.
 
 
 Things to sell:
@@ -21,3 +20,10 @@ Upcoming Dates:
 
 Recurring Deadlines:
 * PHYS-2212K HW due Sundays
+
+Material Desires:
+* Sewing kit
+* PCIE SSD
+
+Shopping List:
+* 
