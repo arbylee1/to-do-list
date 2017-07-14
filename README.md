@@ -2,7 +2,6 @@
 
 
 TODO:
-* Activate windows bc of hardware change
 * Check out mining software on Bri's computer
 * Check out 5/3/1 workout program
 * Migrate webserver onto personal AWS account
