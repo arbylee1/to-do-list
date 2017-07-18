@@ -6,13 +6,12 @@ TODO:
 * Backup Authy/Google Authenticator
 * Migrate webserver onto personal AWS account
 * Figure out how to deploy Play web application to a remote server.
+* Dispute credit card charge.
+* Get passport renewed.
 
 
 Things to sell:
 * Standing Mixer Kitchenaid 550 Plus Professional ($180)
-* MSI Mortar z170m Motherboard ($70)
-* Intel i3-6100 CPU ($80)
-* Brother Sewing Machine ($100)
 
 Upcoming Dates:
 * 07/18/2017 - APPH Quiz 2
