@@ -3,11 +3,12 @@
 
 TODO:
 * Plan out 5/3/1 workout program
-* Migrate webserver onto personal AWS account
 * Figure out how to deploy Play web application to a remote server.
 * Get passport renewed.
 * Build a spice rack
 * Populate spice rack
+* Update resume, when final grades are available
+* Start job search
 
 Desired herbs/spices
 * Sage
@@ -22,11 +23,10 @@ Things to sell:
 * Computer parts (to Eddy)
 
 Upcoming Dates:
-* 07/31/2017 8 AM - PHYS 2212K Final Exam
 
 
 Recurring Deadlines:
-* PHYS-2212K HW due Sundays
+
 
 Material Desires:
 * Costco membership
@@ -41,6 +41,7 @@ Daily Goals:
 
 Long-term Goals:
 * Graduate!
+* Find job
 * Write Biography. Understanding thyself etc.
 * Start climbing again.
 * Start drawing again.
