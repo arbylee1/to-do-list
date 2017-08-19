@@ -18,9 +18,8 @@ Desired herbs/spices
 
 
 Things to sell:
-* Standing Mixer Kitchenaid 550 Plus Professional ($180)
 * Books
-* Computer parts (to Eddy)
+* MTG Cards
 
 Upcoming Dates:
 
