@@ -3,23 +3,13 @@
 
 TODO:
 * Plan out 5/3/1 workout program
-* Figure out how to deploy Play web application to a remote server.
 * Get passport renewed.
-* Build a spice rack
-* Populate spice rack
 * Update resume, when final grades are available
-* Start job search
+* Continue job search
 
 Desired herbs/spices
 * Sage
 * Thyme
-* Rosemary
-* Bay leaves
-
-
-Things to sell:
-* Books
-* MTG Cards
 
 Upcoming Dates:
 
@@ -28,7 +18,7 @@ Recurring Deadlines:
 
 
 Material Desires:
-* Costco membership
+* Keyboard (Instrument)
 * Electric violin
 * Arabic book
 * Spanish book
@@ -38,13 +28,16 @@ Daily Goals:
 * Bed by 11:00 every night.
 * 130g protein and 1500 kcals/day
 
+Semi-daily goals:
+* Go to gym MWF
+
 Long-term Goals:
 * Graduate!
 * Find job
 * Write Biography. Understanding thyself etc.
-* Start climbing again.
 * Start drawing again.
-* Start playing guitar again.
+* Start writing again.
+* Start playing an instrument again.
 * Master German.
 * Master Chinese
 * Learn Arabic.
